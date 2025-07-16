@@ -1,7 +1,7 @@
 ## A few of my favorite things
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,bash,cpp,cloudflare,docker,kubernetes,electron,flutter,gcp,git,github,go,linux,md,nodejs,obsidian,opencv,pytorch,qt,rails,raspberrypi,react,regex,ruby,rust,tailwind,tensorflow,ts,ubuntu,unity,vscode,vue,html,css,wasm" />
+    <img src="https://skillicons.dev/icons?i=linux,py,pytorch,sklearn,tensorflow,rust,vscode,md,aws,gcp,bash,cpp,obsidian,git,github,cloudflare,docker,kubernetes,electron,flutter,go,nodejs,nextjs,opencv,qt,ruby,rails,raspberrypi,react,regex,tailwind,ts,ubuntu,unity,vue,html,css,firebase,wasm,mongodb,mysql,sqlite" />
   </a>
 </p>
 
