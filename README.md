@@ -1,4 +1,4 @@
-## My very favorite tech things
+## My very favorite tech
 
 ## OS, distributions
 [![OS distributions](https://skillicons.dev/icons?i=linux,arch,debian,ubuntu)](https://skillicons.dev)
