@@ -1,31 +1,31 @@
 ## My very favorite tech things
-OS, distributions
-<img src="https://skillicons.dev/icons?i=ubuntu, linux, arch, debian"/>
+
+[![OS, distributions](<img src="https://skillicons.dev/icons?i=ubuntu,linux,arch,debian)](https://skillicons.dev)
 
 Platforms, services
-<img src="https://skillicons.dev/icons?i=firebase, github, kubernetes, docker, cloudflare, aws,gcp"/>
+[![OS, distributions](<https://skillicons.dev/icons?i=firebase,github,kubernetes,docker,cloudflare,aws,gcp)](https://skillicons.dev)
 
 Languages
-    <img src="https://skillicons.dev/icons?i=py,rust,c,cpp,dart,go,js,ts,ruby,wasm,bash" />
+[![OS, distributions](<https://skillicons.dev/icons?i=py,rust,c,cpp,dart,go,js,ts,ruby,wasm,bash)](https://skillicons.dev)
     
 markup langs
-<img src="https://skillicons.dev/icons?i=html,css, md"/>
+[![OS, distributions](<https://skillicons.dev/icons?i=html,css,md)](https://skillicons.dev)
 
 Frameworks, Libraries
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=electron, flutter,nodejs,rails,qt,react,vue,nextjs, tailwind, opencv, tensorflow, sklearn, pytorch&perline=20" />
+    [![OS, distributions](<https://skillicons.dev/icons?i=electron,flutter,nodejs,rails,qt,react,vue,nextjs,tailwind,opencv,tensorflow,sklearn,pytorch)](https://skillicons.dev)
   </a>
 </p>
 Databases
 
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite"/>
+  [![OS, distributions](<https://skillicons.dev/icons?i=mongodb,mysql,sqlite)](https://skillicons.dev)
 
  Apps
- <img src="https://skillicons.dev/icons?i=unity, regex, git, obsidian, vscode"/>
+[![OS, distributions](<https://skillicons.dev/icons?i=unity,regex,git,obsidian,vscode)](https://skillicons.dev)
 
 IOT devices
-<img src="https://skillicons.dev/icons?i=raspberrypi"/>
+[![OS, distributions](<https://skillicons.dev/icons?i=raspberrypi)](https://skillicons.dev)
 
 
 
