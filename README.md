@@ -1,7 +1,11 @@
 ## Hi there 👋
 
-[![My Skills](https://skillicons.dev/icons?i=aws,bash,cpp,cloudflare,docker,electron,flutter,gcp,git,github,go,linux,md,nodejs,obsidian,opencv,pytorch,qt,rails,raspberrypi,react,regex,ruby,rust,tailwind,tensorflow,ts,ubuntu,unity,vscode,vue,html,css,wasm)](https://skillicons.dev)
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,bash,cpp,cloudflare,docker,kubernates,electron,flutter,gcp,git,github,go,linux,md,nodejs,obsidian,opencv,pytorch,qt,rails,raspberrypi,react,regex,ruby,rust,tailwind,tensorflow,ts,ubuntu,unity,vscode,vue,html,css,wasm" />
+  </a>
+</p>
 
 **RichLewis007/RichLewis007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
