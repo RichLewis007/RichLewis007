@@ -1,6 +1,7 @@
 ## My very favorite tech things
 
-[![OS, distributions](<img src="https://skillicons.dev/icons?i=ubuntu,linux,arch,debian)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![OS, distributions](https://skillicons.dev/icons?i=ubuntu,linux,arch,debian)](https://skillicons.dev)
 
 Platforms, services
 [![OS, distributions](<https://skillicons.dev/icons?i=firebase,github,kubernetes,docker,cloudflare,aws,gcp)](https://skillicons.dev)
