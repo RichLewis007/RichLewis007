@@ -1,3 +1,4 @@
+🌱 Innovator | Researcher | Engineer 🚀 Driving progress through innovation | Coding Enthusiast Let's build a great future! 🌿✨
 ## My very favorite tech
 
 ## OS, distributions
