@@ -1,7 +1,36 @@
 🌱 Innovator | Researcher | Engineer 🚀 Driving progress through innovation | Coding Enthusiast Let's build a great future! 🌿✨
 
 ## Find me all around the web:
+
+<p align="center">
+  <a href="https://twitter.com/yourhandle"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/yourprofile"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:your@email.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://yourwebsite.com"><img alt="Website" src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
+</p>
+
+
+
+<img width="256" height="256" alt="image" src="https://github.com/user-attachments/assets/0f69ad4d-599b-4a3f-8533-5921f2a0b599" />
+
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
+[![Twitter Badge]()](https://twitter.com/yourusername)
+[![Twitter Badge]()](https://twitter.com/yourusername)
+[![Twitter Badge]()](https://twitter.com/yourusername)
+
+
+RichLewis007
+
+<a href="https://github.com/RichLewis007">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/twitter.svg" height="30" />
+</a>
+
+![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github)
+
+[<img src="https://icongr.am/fontawesome/github.svg?size=30&color=000000" />](https://github.com/yourusername)
+
+
+---
 
 ## My very favorite tech
 
