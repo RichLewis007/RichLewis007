@@ -11,15 +11,10 @@
 
 
 
-<img width="256" height="256" alt="image" src="https://github.com/user-attachments/assets/0f69ad4d-599b-4a3f-8533-5921f2a0b599" />
+<!-- img width="256" height="256" alt="image" src="https://github.com/user-attachments/assets/0f69ad4d-599b-4a3f-8533-5921f2a0b599" / -->
 
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
-[![Twitter Badge]()](https://twitter.com/yourusername)
-[![Twitter Badge]()](https://twitter.com/yourusername)
-[![Twitter Badge]()](https://twitter.com/yourusername)
 
-
-RichLewis007
 
 <a href="https://github.com/RichLewis007">
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/twitter.svg" height="30" />
