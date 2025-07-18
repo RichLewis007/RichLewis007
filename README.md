@@ -1,5 +1,5 @@
 🌱 Innovator | Researcher | Engineer 🚀 Driving progress through innovation | Coding Enthusiast Let's build a great future! 🌿✨
-
+<!--
 ## Find me all around the web:
 
 <p align="center">
@@ -9,10 +9,10 @@
   <a href="https://yourwebsite.com"><img alt="Website" src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
 </p>
 
-
+-->
 
 <!-- img width="256" height="256" alt="image" src="https://github.com/user-attachments/assets/0f69ad4d-599b-4a3f-8533-5921f2a0b599" / -->
-
+<!--
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
 
 
@@ -24,7 +24,7 @@
 
 [<img src="https://icongr.am/fontawesome/github.svg?size=30&color=000000" />](https://github.com/yourusername)
 
-
+-->
 ---
 
 ## My very favorite tech
