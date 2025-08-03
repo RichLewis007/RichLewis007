@@ -25,6 +25,11 @@
 [<img src="https://icongr.am/fontawesome/github.svg?size=30&color=000000" />](https://github.com/RichLewis007)
 
 -->
+
+---
+
+[![An image of @richlewis007's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/richlewis007)](https://holopin.io/@richlewis007)
+
 ---
 
 ## My very favorite tech
