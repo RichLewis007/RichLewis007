@@ -54,3 +54,4 @@
 ## IOT devices
 [![IOT devices](https://skillicons.dev/icons?i=raspberrypi)](https://skillicons.dev)
 
+![simplesvg2-1024x100](https://github.com/user-attachments/assets/7a768ca4-b4db-4317-9dc5-30d5b5e46458)
