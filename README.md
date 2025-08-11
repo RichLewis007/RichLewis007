@@ -1,4 +1,11 @@
-🌱 Innovator | Researcher | Engineer 🚀 Driving progress through innovation | Coding Enthusiast Let's build a great future! 🌿✨
+<p align="center">
+  <b>🌱 Innovator | Researcher | Engineer 🚀 Driving progress through innovation | Coding Enthusiast Let's build a great future! 🌿✨</b></br>
+  <H1>“We cannot solve our problems with the same thinking we used when we created them.”</H1>
+  <p>– Albert Einstein</p>
+</p>
+
+<br />
+
 <!--
 ## Find me all around the web:
 
