@@ -2,18 +2,19 @@
   <b>🌱 Innovator | Researcher | Engineer 🚀 Driving progress through innovation | Coding Enthusiast Let's build a great future! 🌿✨</b></br>
 </p>
 
-<img src="./assets/dividing-line-3.svg" alt="dividing-line-3" />
-
-
+[![dividing line](https://github.com/RichLewis007/RichLewis007/blob/main/assets/dividing-line-3.svg)](#readme)
 
 <p align="center">
   <b>“All models are wrong, but some are useful.”</b></br>
    – George Box
 </p>
 
-![dividing-line-3](https://github.com/user-attachments/assets/45a9eabb-31cc-4c50-ac7a-7ffa4b0c0193)
+
 
 <!--
+<img src="./assets/dividing-line-3.svg" alt="dividing-line-3" />
+![dividing-line-3](https://github.com/user-attachments/assets/45a9eabb-31cc-4c50-ac7a-7ffa4b0c0193)
+
 ## Find me all around the web:
 
 <p align="center">
