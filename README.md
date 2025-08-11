@@ -5,10 +5,11 @@
 [![dividing line](https://github.com/RichLewis007/RichLewis007/blob/main/assets/dividing-line-3.svg)](#readme)
 
 <p align="center">
-  <b>“All models are wrong, but some are useful.”</b></br>
-   – George Box
+  “ALL MODELS ARE WRONG BUT SOME ARE USEFUL”<br>  
+  - George Box<br>  
+  <sub>from his chapter “Robustness in the Strategy of Scientific Model Building”<br>  
+  in <em>Robustness in Statistics</em> (published 1979)</sub>
 </p>
-
 
 
 <!--
