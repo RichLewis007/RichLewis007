@@ -1,10 +1,15 @@
 <p align="center">
   <b>🌱 Innovator | Researcher | Engineer 🚀 Driving progress through innovation | Coding Enthusiast Let's build a great future! 🌿✨</b></br>
-  <H1>“We cannot solve our problems with the same thinking we used when we created them.”</H1>
-  <p>– Albert Einstein</p>
 </p>
 
-<br />
+![dividing-line-3](https://github.com/user-attachments/assets/45a9eabb-31cc-4c50-ac7a-7ffa4b0c0193)
+
+<p align="center">
+  <b>“All models are wrong, but some are useful.”</b></br>
+   – George Box
+</p>
+
+
 
 <!--
 ## Find me all around the web:
