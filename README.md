@@ -8,7 +8,7 @@
   “ALL MODELS ARE WRONG<br>
 BUT SOME ARE USEFUL”<br>  
   - George Box<br>  
-  <sub>from his chapter<be>
+  <sub>from his chapter<br>
 “Robustness in the Strategy of Scientific Model Building”<br>  
   in <em>Robustness in Statistics</em> (published 1979)</sub>
 </p>
