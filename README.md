@@ -1,5 +1,5 @@
 <p align="center">
-  <b>🌱 Innovator • Researcher • Engineer | 🚀 Shipping useful AI. Let’s build the future together.
+  <b>Innovator • Researcher • Engineer | Shipping useful AI. Let’s build the future together.
 </p>
 
 [![dividing line](https://github.com/RichLewis007/RichLewis007/blob/main/assets/dividing-line-3.svg)](#readme)
