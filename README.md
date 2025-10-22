@@ -1,6 +1,9 @@
 <p align="center">
-  <b>Innovator • Researcher • Engineer | Shipping useful AI. Let’s build the future together.
+  <b>Innovator • Researcher • Engineer • Shipping useful AI • Let’s build the future together
 </p>
+
+
+
 
 [![dividing line](https://github.com/RichLewis007/RichLewis007/blob/main/assets/dividing-line-3.svg)](#readme)
 
@@ -72,4 +75,8 @@ BUT SOME ARE USEFUL”<br>
 ## IOT devices
 [![IOT devices](https://skillicons.dev/icons?i=raspberrypi)](https://skillicons.dev)
 
-![simplesvg2-1024x100](https://github.com/user-attachments/assets/7a768ca4-b4db-4317-9dc5-30d5b5e46458)
+
+| Interesting box effect in github markdown.. |
+|-|
+
+<!-- ![simplesvg2-1024x100](https://github.com/user-attachments/assets/7a768ca4-b4db-4317-9dc5-30d5b5e46458) -->
