@@ -1,6 +1,6 @@
 <p align="center">
   <b>Innovator - Researcher - Engineer - Teacher</b><br>
-Shipping useful AI • Let’s build the future together
+Shipping useful AI - Let’s build the future together
 </p>
 
 ---
